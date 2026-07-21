@@ -80,7 +80,9 @@ This project presents the design and implementation of an Adaptive Low-Power Con
 
 ## Author
 
+BEER MOHAMMED IRFAN Z
 HARJITH R
+BHAVITHRAVANAN C A
 
 Department of Electronics Engineering (VLSI Design and Technology)
 
