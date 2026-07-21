@@ -4,16 +4,6 @@ This folder contains the planning and project management documents for the proje
 
 **Adaptive Low-Power Congestion-Aware NoC Router for FPGA**
 
-## Contents
-
-| File                 | Description |
-| Project_Proposal.md  | Project proposal and overall project description |
-| Objectives.md        | Project objectives and goals |
-| Timeline.md          | Planned project development timeline |
-| Milestones.md        | Project milestones and completion status |
-| Meeting_Notes.md     | Records of project meetings and review discussions |
-
-
 ## Project Workflow
 
 Project Planning
